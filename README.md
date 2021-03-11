@@ -1,4 +1,6 @@
-# Courses-And-Resources
+<img align="right" src="https://media.giphy.com/media/xThtayC2XaYiQMybss/giphy.gif"/>
+
+# COURSES AND RESOURCES DOWNLOAD LINKS
 
 ## Section 1: Books For Development
 
