@@ -20,7 +20,7 @@
 
 ## Web Development Tutorials
 
-* [Flutter Tutorials](https://drive.google.com/drive/mobile/folders/1Wp1G8TgA9JMPY0P7ZRirggVdkqFvFrgg)
+* [Wev Development Tutorials](https://drive.google.com/drive/mobile/folders/1Wp1G8TgA9JMPY0P7ZRirggVdkqFvFrgg)
 
 
 
