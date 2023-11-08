@@ -1,5 +1,3 @@
-<img align="right" src="https://media.giphy.com/media/xThtayC2XaYiQMybss/giphy.gif"/>
-
 # COURSES AND RESOURCES DOWNLOAD LINKS
 
 ## Section 3: Placement Material (Company Wise)
